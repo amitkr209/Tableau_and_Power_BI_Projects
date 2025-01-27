@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard Project  
+# Madhav E-Commerce Sales Dashboard Project  
 
 ## Overview  
 The Madhav E-Commerce Sales Dashboard project aims to assist the owner of the Madhav Store in tracking and analyzing online sales across India. This interactive dashboard provides valuable insights into sales performance, enabling data-driven decision-making.
