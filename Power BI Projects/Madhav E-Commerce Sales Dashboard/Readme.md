@@ -37,7 +37,7 @@ Below is a snapshot of the Power BI dashboard created for this project:
 ### Dashboard Features  
 - **Dynamic Visualizations**:  
   - KPIs such as total sales, total profit, and average order value (AOV).  
-  - Bar and pie charts for state-wise and category-wise analysis.  
+  - Column, Bar, and pie charts for state-wise and category-wise analysis.  
 - **Interactive Filters**:  
   - Quarter and month filters for granular analysis of seasonal trends.  
 - **Top Customer Insights**:  
@@ -51,11 +51,11 @@ Below is a snapshot of the Power BI dashboard created for this project:
 2. **Category Insights**:  
    - Clothing dominated the quantity sold (63%), while electronics and furniture contributed significantly to profit.  
 3. **Payment Mode Distribution**:  
-   - Cash on Delivery (COD) accounted for 44% of transactions, followed by UPI (21%) and EMI (12%).  
+   - Cash on Delivery (COD) accounted for 44% of transactions, followed by UPI (21%) and Debit Card (13%).  
 4. **Sub-Category Performance**:  
    - Printers and bookcases were the most profitable sub-categories.  
 5. **Seasonal Trends**:  
-   - December had the highest monthly profit, while June showed losses, highlighting opportunities to improve sales strategies during low-performing months.  
+   - November had the highest monthly profit, while May showed the highest losses, highlighting opportunities to improve sales strategies during low-performing months.  
 
 ## Recommendations  
 1. **Expand Profitable Categories**:  
