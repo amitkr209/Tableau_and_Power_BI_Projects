@@ -30,7 +30,7 @@ This project visualizes and explores various aspects of IBM’s HR dataset, incl
 
 - **Interactivity**:  
   - Role-wise and gender-based comparisons  
-  - Insightfultreemap and bar charts for comparative analysis  
+  - Insightful treemap and bar charts for comparative analysis  
 
 ## Dashboard Preview  
 Below is a snapshot of the Tableau dashboard created for this project:
