@@ -30,12 +30,12 @@ The project can be broken down into the following components:
 ## Dashboard Preview
 Below is a snapshot of the Tableau dashboard created for this project:
 
-![E-Commerce Sales Dashboard]()
+![E-Commerce Sales Dashboard](https://github.com/amitkr209/Tableau_and_Power_BI_Projects/blob/main/Tableau%20Projects/Madhav%20E-Commerce%20Sales%20Dashboard/Images/Dashboard%20Image.png)
 
 ## Tableau Public Dashboard
 
 You can view and interact with the full live Tableau dashboard on Tableau Public here:  
-[**View the Madhav E-Commerce Sales Dashboard on Tableau Public**](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[**View the Madhav E-Commerce Sales Dashboard on Tableau Public**](https://public.tableau.com/shared/N5ZJ8Y6HY?:display_count=n&:origin=viz_share_link)
 
 ## Analysis Methodology
 
