@@ -29,10 +29,10 @@ This project focuses on two dashboards:
 ## Dashboard Preview
 
 **Revenue Dashboard**  
-<img src="" alt="Revenue Dashboard" style="width: 50%; height: auto;"> 
+<img src="https://github.com/amitkr209/Tableau_and_Power_BI_Projects/blob/main/Tableau%20Projects/Vrinda%20Store%20Sales%20Dashboard/Images/Revenue%20Dashboard.png" alt="Revenue Dashboard" style="width: 50%; height: auto;"> 
 
 **Orders Dashboard**  
-<img src="" alt="Orders Dashboard" style="width: 50%; height: auto;">
+<img src="https://github.com/amitkr209/Tableau_and_Power_BI_Projects/blob/main/Tableau%20Projects/Vrinda%20Store%20Sales%20Dashboard/Images/Order%20Dashboard.png" alt="Orders Dashboard" style="width: 50%; height: auto;">
 
 ## Tableau Public Dashboard
 You can view and interact with the full live Tableau dashboards here:  
@@ -47,12 +47,14 @@ You can view and interact with the full live Tableau dashboards here:
 - **Order Status Tracking**: Delivered vs refunded distribution for operational efficiency.  
 
 ## Key Insights
-1. **Revenue Leaders**: Maharashtra generated the highest revenue (₹2.99M), followed by Karnataka and Uttar Pradesh.  
-2. **Top Categories**: “Set” category contributed over **50% of revenue** and **40% of orders**.  
-3. **Gender Distribution**: Women contributed the majority of revenue (64%) and orders (69%).  
-4. **Channel Performance**: Amazon (35.5%) and Myntra (23.3%) dominated online sales.  
-5. **Seasonal Trends**: Revenue peaked in **March**, while orders were highest during **March–April**.  
-6. **Order Status**: ~92% of orders were delivered successfully, with only 1.7% refunded.  
+
+1. **Revenue Growth Drivers**: Maharashtra and Karnataka emerged as top-performing states, contributing over **₹5.6M combined revenue**, showcasing strong regional dominance.  
+2. **Category Contribution**: The **Set category alone drove 50%+ of total revenue and 40%+ of orders**, making it the store’s primary revenue engine.  
+3. **Customer Demographics**: Women accounted for **64% of revenue and nearly 70% of orders**, highlighting them as the store’s core customer base.  
+4. **Channel Performance**: **Amazon (35.5%) and Myntra (23.3%)** together captured over half of total sales, making them the most profitable platforms for Vrinda Store.  
+5. **Seasonality Trends**: Revenue peaked in **March**, while orders were highest during **March–April**, indicating seasonal demand surges.  
+6. **Operational Efficiency**: With **92% successful deliveries and only 1.7% refunds**, the store demonstrated strong order fulfillment performance.  
+ 
 
 ## Recommendations
 1. **Leverage Women-Centric Marketing**: Since women drive a majority of sales, campaigns can be optimized around women-focused categories.  
@@ -65,4 +67,4 @@ You can view and interact with the full live Tableau dashboards here:
 This project improved my ability to build **multi-dashboard solutions in Tableau**, combining **revenue analysis** with **order tracking**. I learned how to integrate demographic and geographic breakdowns for actionable insights, while ensuring dashboards remain interactive and user-friendly.
 
 ## Conclusion
-The **Vrinda Store Revenue & Orders Dashboard Project** demonstrates the power of Tableau in uncovering customer behavior and sales performance. By combining revenue and order perspectives, businesses can make more informed, data-driven decisions to enhance growth and efficiency.
+The **Vrinda Store Sales Dashboard Project** demonstrates the power of Tableau in uncovering customer behavior and sales performance. By combining revenue and order perspectives, businesses can make more informed, data-driven decisions to enhance growth and efficiency.
